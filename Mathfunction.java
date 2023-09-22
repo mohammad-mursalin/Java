@@ -9,6 +9,9 @@ public class Mathfunction
         System.out.println("Absulate number " +Math.abs(-5));
         System.out.println("Random number " +Math.random());
         System.out.println("Randon number between 0 to 100 " +(int)(Math.random()*101));
+        System.out.println("2 to the power 3 is equal to " +Math.pow(2,3));
+        System.out.println("Round number of 5.6 = " +Math.round(5.6));
+        System.out.println("Pi = " +Math.PI);
         
     }   
 }
