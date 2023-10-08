@@ -10,6 +10,7 @@ public class StringMethods
         System.out.println("My name in uppercase " +name.toUpperCase());
         System.out.println("My name in lowercase " +name.toLowerCase());
         System.out.println("Position of Lamon is " +name.indexOf("Lamon"));
-        
+        System.out.println("Does name contain Lamon?  " +name.contains("Lamon"));
+        System.out.println("Is name empty?   " +name.isEmpty());
     }   
 }
