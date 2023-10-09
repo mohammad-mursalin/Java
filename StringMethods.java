@@ -12,5 +12,7 @@ public class StringMethods
         System.out.println("Position of Lamon is " +name.indexOf("Lamon"));
         System.out.println("Does name contain Lamon?  " +name.contains("Lamon"));
         System.out.println("Is name empty?   " +name.isEmpty());
+        System.out.println("Is my name starts with M?   " +name.startsWith("M"));
+        System.out.println("Is my name ends with Lamon?   " +name.endsWith("Lamon"));
     }   
 }
