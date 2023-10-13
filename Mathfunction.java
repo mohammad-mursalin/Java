@@ -12,6 +12,7 @@ public class Mathfunction
         System.out.println("2 to the power 3 is equal to " +Math.pow(2,3));
         System.out.println("Round number of 5.6 = " +Math.round(5.6));
         System.out.println("Pi = " +Math.PI);
-        
+        System.out.println("Ceiling number of 5.4 = " +Math.ceil(5.4));
+        System.out.println("Floor number of 5.4 = " +Math.floor(5.4));
     }   
 }
