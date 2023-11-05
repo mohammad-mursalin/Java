@@ -19,5 +19,8 @@ public class ArrayListSorting
 
         Collections.sort(number,Collections.reverseOrder());
         System.out.println("After sorting number arraylist in descending : " +number);
+        
+        Collections.reverse(number);    //Another way for sorting in reverse order
+        System.out.println("Again sorting : " +number);
     }
 }
