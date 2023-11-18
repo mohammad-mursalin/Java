@@ -16,7 +16,7 @@ public class Test {
 
         for(Student s : list) {
 
-            System.out.println(s.name+ "  " +s.roll);
+            System.out.println(s.name+ "  " +s.roll+ " ");
         }
     }
 }
