@@ -25,5 +25,10 @@ public class JavaFileDemo1 {
         System.out.println("Location of the folder : " +dirLocation);
 
         System.out.println("Folder name : " +dir2.getName());
+
+        if (dir2.delete()) {
+            
+            System.out.println(dir2.getName()+ " folder is deleted successfully");
+        }
     }
 }
