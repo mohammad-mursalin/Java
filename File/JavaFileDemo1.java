@@ -17,5 +17,13 @@ public class JavaFileDemo1 {
             
             System.out.println(dir.getName()+ " folder is deleted successfully");
         }
+
+        File dir2 = new File("/home/mursali/Demo File 2");
+        dir2.mkdir();
+
+        dirLocation = dir2.getAbsolutePath();
+        System.out.println("Location of the folder : " +dirLocation);
+
+        System.out.println("Folder name : " +dir2.getName());
     }
 }
