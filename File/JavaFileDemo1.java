@@ -7,5 +7,8 @@ public class JavaFileDemo1 {
         File dir = new File("Test file1");
 
         dir.mkdir();
+
+        String dirLocation = dir.getAbsolutePath();
+        System.out.println("Location of the file : " +dirLocation);
     }
 }
