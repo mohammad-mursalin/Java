@@ -26,6 +26,8 @@ public class Switch
             default -> System.out.println("8am");
         }
 
+        // Switch as expression 
+        
         String d="sunday";
         int result;
 
