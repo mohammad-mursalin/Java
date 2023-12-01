@@ -27,7 +27,7 @@ public class Switch
         }
 
         // Switch as expression 
-        
+
         String d="sunday";
         int result;
 
@@ -36,7 +36,7 @@ public class Switch
             case "saturday","sunday" -> result=6;
             case "monday","tuesday" -> result=5;
             default -> result=8;
-        };                                            //notice that we have used semi colon after }
+        };                                            //notice that we have used semi colon after } cuz now it's an expression
 
 
         System.out.println(result);
