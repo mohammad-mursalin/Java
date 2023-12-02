@@ -25,7 +25,7 @@ public class MultiDimentionalArray {
 
         // another way for printing it
 
-        for (int[] i : nums) {   
+        for (int[] i : nums) {   //(int i[] : nums)
 
             for(int j : i) {
 
