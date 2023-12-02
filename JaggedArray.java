@@ -8,7 +8,7 @@ public class JaggedArray {
         nums[1] = new int[2];
         nums[2] = new int[1];
 
-        for(int i=0;i<3;i++)
+        for(int i=0;i<3;i++)    //int i = 0 ; i < nums.length ; i++
         {
             for(int j = 0 ; j < nums[i].length ; j++)
             {
