@@ -18,6 +18,7 @@ public class AnonymousObject {
     public static void main(String[] args) {
         
         new Test();
+        new Test().show();
         
     }
 }
