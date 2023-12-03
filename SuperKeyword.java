@@ -16,8 +16,8 @@ class Bb extends Aa {
 
 public Bb() {
 
-    super();  
-    
+    super();  // By default it will call the constructor of super class but if parameter is passed then
+                // parameterized constructor will be called
     System.out.println("Inside constructor of Bb");
 }
 
