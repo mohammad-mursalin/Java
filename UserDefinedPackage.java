@@ -1,4 +1,4 @@
-
+// package folder name.file name 
 public class UserDefinedPackage {
     
     public static void main(String[] args) {
