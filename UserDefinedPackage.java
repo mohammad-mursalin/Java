@@ -1,4 +1,4 @@
-import Super Keyword.Car;
+
 public class UserDefinedPackage {
     
     public static void main(String[] args) {
