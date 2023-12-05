@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AnonymousInnerClass",
+            "request": "launch",
+            "mainClass": "AnonymousInnerClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
