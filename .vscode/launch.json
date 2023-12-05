@@ -1,0 +1,735 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbsClassTest",
+            "request": "launch",
+            "mainClass": "AbsClassTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "AddingNumAndString",
+            "request": "launch",
+            "mainClass": "AddingNumAndString",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "AnimalTest",
+            "request": "launch",
+            "mainClass": "AnimalTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ArgPassMethod",
+            "request": "launch",
+            "mainClass": "ArgPassMethod",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumberList",
+            "request": "launch",
+            "mainClass": "ArmstrongNumberList",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAssignment",
+            "request": "launch",
+            "mainClass": "ArrayAssignment",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLength",
+            "request": "launch",
+            "mainClass": "ArrayLength",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListSorting",
+            "request": "launch",
+            "mainClass": "ArrayListSorting",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ArraySorting",
+            "request": "launch",
+            "mainClass": "ArraySorting",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOperator",
+            "request": "launch",
+            "mainClass": "BitwiseOperator",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "BoxVolume",
+            "request": "launch",
+            "mainClass": "BoxVolume",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "BufferClass",
+            "request": "launch",
+            "mainClass": "BufferClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "BuilderClass",
+            "request": "launch",
+            "mainClass": "BuilderClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "CallingConsTest",
+            "request": "launch",
+            "mainClass": "CallingConsTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ConversionStringInt",
+            "request": "launch",
+            "mainClass": "ConversionStringInt",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "CreatingClass",
+            "request": "launch",
+            "mainClass": "CreatingClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "DateDemo",
+            "request": "launch",
+            "mainClass": "DateDemo",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Debug",
+            "request": "launch",
+            "mainClass": "Debug",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "DecimalNumberFormatting",
+            "request": "launch",
+            "mainClass": "DecimalNumberFormatting",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "DoWhileLoop",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "EncapTest",
+            "request": "launch",
+            "mainClass": "EncapTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "ExceptionHandling",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "FirstJava",
+            "request": "launch",
+            "mainClass": "FirstJava",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ForEachLoop",
+            "request": "launch",
+            "mainClass": "ForEachLoop",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "FunctionOverloading",
+            "request": "launch",
+            "mainClass": "FunctionOverloading",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "GettingCharInput",
+            "request": "launch",
+            "mainClass": "GettingCharInput",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "GettingInput",
+            "request": "launch",
+            "mainClass": "GettingInput",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDemo",
+            "request": "launch",
+            "mainClass": "HashMapDemo",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "InnerClass",
+            "request": "launch",
+            "mainClass": "InnerClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "IntTypeArray",
+            "request": "launch",
+            "mainClass": "IntTypeArray",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JaggedArray",
+            "request": "launch",
+            "mainClass": "JaggedArray",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaArrayList",
+            "request": "launch",
+            "mainClass": "JavaArrayList",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaArrayList2",
+            "request": "launch",
+            "mainClass": "JavaArrayList2",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaFileDemo1",
+            "request": "launch",
+            "mainClass": "JavaFileDemo1",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaFileDemo2",
+            "request": "launch",
+            "mainClass": "JavaFileDemo2",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaHashset",
+            "request": "launch",
+            "mainClass": "JavaHashset",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaRecursion",
+            "request": "launch",
+            "mainClass": "JavaRecursion",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaRecursion1Test",
+            "request": "launch",
+            "mainClass": "JavaRecursion1Test",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaT",
+            "request": "launch",
+            "mainClass": "JavaT",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "JavaTimeDemo",
+            "request": "launch",
+            "mainClass": "JavaTimeDemo",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListDemo",
+            "request": "launch",
+            "mainClass": "LinkedListDemo",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "MainClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Mathfunction",
+            "request": "launch",
+            "mainClass": "Mathfunction",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAssignment",
+            "request": "launch",
+            "mainClass": "MatrixAssignment",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MatrixAssignment2",
+            "request": "launch",
+            "mainClass": "MatrixAssignment2",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MatrixInOut",
+            "request": "launch",
+            "mainClass": "MatrixInOut",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MethodCallingTest",
+            "request": "launch",
+            "mainClass": "MethodCallingTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MethodDemo",
+            "request": "launch",
+            "mainClass": "MethodDemo",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloadingTest",
+            "request": "launch",
+            "mainClass": "MethodOverloadingTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MethodsBasic",
+            "request": "launch",
+            "mainClass": "MethodsBasic",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimentionalArray",
+            "request": "launch",
+            "mainClass": "MultiDimentionalArray",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "MultidimentionalArray",
+            "request": "launch",
+            "mainClass": "MultidimentionalArray",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "NunberConversion",
+            "request": "launch",
+            "mainClass": "NunberConversion",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "OOPMethod",
+            "request": "launch",
+            "mainClass": "OOPMethod",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeNumberList",
+            "request": "launch",
+            "mainClass": "PalindromeNumberList",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Pattern01",
+            "request": "launch",
+            "mainClass": "Pattern01",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Pattern02",
+            "request": "launch",
+            "mainClass": "Pattern02",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "PersonTeacherTest",
+            "request": "launch",
+            "mainClass": "PersonTeacherTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumberList",
+            "request": "launch",
+            "mainClass": "PrimeNumberList",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "QuickStart",
+            "request": "launch",
+            "mainClass": "QuickStart",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumber",
+            "request": "launch",
+            "mainClass": "RandomNumber",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ReadingFromFile",
+            "request": "launch",
+            "mainClass": "ReadingFromFile",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Series",
+            "request": "launch",
+            "mainClass": "Series",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StaticBlockTest",
+            "request": "launch",
+            "mainClass": "StaticBlockTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethodTest",
+            "request": "launch",
+            "mainClass": "StaticMethodTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StaticVsPublicMethod",
+            "request": "launch",
+            "mainClass": "StaticVsPublicMethod",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StaticvariableTest",
+            "request": "launch",
+            "mainClass": "StaticvariableTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StingMethod02",
+            "request": "launch",
+            "mainClass": "StingMethod02",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StingPalindrome",
+            "request": "launch",
+            "mainClass": "StingPalindrome",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StringCompare",
+            "request": "launch",
+            "mainClass": "StringCompare",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StringConcatenation",
+            "request": "launch",
+            "mainClass": "StringConcatenation",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StringInput",
+            "request": "launch",
+            "mainClass": "StringInput",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "StringMethods",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigit",
+            "request": "launch",
+            "mainClass": "SumOfDigit",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "SumOfMatrix",
+            "request": "launch",
+            "mainClass": "SumOfMatrix",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "SuperKeyword",
+            "request": "launch",
+            "mainClass": "SuperKeyword",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "SuperTest",
+            "request": "launch",
+            "mainClass": "SuperTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "TestClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "TestFinalMethod",
+            "request": "launch",
+            "mainClass": "TestFinalMethod",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "ThisKeywordTest",
+            "request": "launch",
+            "mainClass": "ThisKeywordTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "TypeConversionAndCasting",
+            "request": "launch",
+            "mainClass": "TypeConversionAndCasting",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "UseOfStaticTest",
+            "request": "launch",
+            "mainClass": "UseOfStaticTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "UserDefinedPackage",
+            "request": "launch",
+            "mainClass": "UserDefinedPackage",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "UsernamePasswordAssingment",
+            "request": "launch",
+            "mainClass": "UsernamePasswordAssingment",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "VarargsTest",
+            "request": "launch",
+            "mainClass": "VarargsTest",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "VowelConsonant",
+            "request": "launch",
+            "mainClass": "VowelConsonant",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "WrapperClass",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "WritingInFile",
+            "request": "launch",
+            "mainClass": "WritingInFile",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "WritingIntoFile",
+            "request": "launch",
+            "mainClass": "WritingIntoFile",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "escape_sequence",
+            "request": "launch",
+            "mainClass": "escape_sequence",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "FirstPackage",
+            "request": "launch",
+            "mainClass": "firstpackage.FirstPackage",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "OOPIntro",
+            "request": "launch",
+            "mainClass": "forOOP.OOPIntro",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "literals",
+            "request": "launch",
+            "mainClass": "literals",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "nor_Operator",
+            "request": "launch",
+            "mainClass": "nor_Operator",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "src.App",
+            "projectName": "Java_d16c20d0"
+        },
+        {
+            "type": "java",
+            "name": "sum_of_two_numbers",
+            "request": "launch",
+            "mainClass": "sum_of_two_numbers",
+            "projectName": "Java_d16c20d0"
+        }
+    ]
+}
