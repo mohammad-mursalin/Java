@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LambdaExp",
+      "request": "launch",
+      "mainClass": "LambdaExp",
+      "projectName": "Java_d16c20d0"
+    },
+    {
+      "type": "java",
       "name": "LambdaExpression",
       "request": "launch",
       "mainClass": "LambdaExpression",
