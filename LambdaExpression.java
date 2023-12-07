@@ -1,3 +1,4 @@
+@FunctionalInterface
 interface Demo {
     void show();
 }
