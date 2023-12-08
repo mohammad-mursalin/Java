@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RunnableThread",
+      "request": "launch",
+      "mainClass": "RunnableThread",
+      "projectName": "Java_d16c20d0"
+    },
+    {
+      "type": "java",
+      "name": "ThreadPriority",
+      "request": "launch",
+      "mainClass": "ThreadPriority",
+      "projectName": "Java_d16c20d0"
+    },
+    {
+      "type": "java",
       "name": "MultipleThreads",
       "request": "launch",
       "mainClass": "MultipleThreads",
