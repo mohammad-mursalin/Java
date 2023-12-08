@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CustomException",
+      "request": "launch",
+      "mainClass": "CustomException",
+      "projectName": "Java_d16c20d0"
+    },
+    {
+      "type": "java",
       "name": "ExceptionHandlingThrow",
       "request": "launch",
       "mainClass": "ExceptionHandlingThrow",
