@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ComparatorInJava",
+      "request": "launch",
+      "mainClass": "ComparatorInJava",
+      "projectName": "Java_d16c20d0"
+    },
+    {
+      "type": "java",
       "name": "RunnableThread",
       "request": "launch",
       "mainClass": "RunnableThread",
