@@ -42,29 +42,31 @@ public class RunnableThread {
         
         Runnable obj1 = () -> { 
             
-            for(int i = 1 ; i < 100 ; i++) {
+            for(int i = 1 ; i < 10 ; i++) {
 
-            System.out.println("In demo1");
+                System.out.println("In demo1");
 
-            try {
-                Thread.sleep(10);
-            } catch (InterruptedException e) {
+                try {
+                    Thread.sleep(10);
+                } catch (InterruptedException e) {
                 
-                e.printStackTrace();
+                    e.printStackTrace();
+                }
             }
         };
 
         Runnable obj2 = () -> { 
             
-            for(int i = 1 ; i < 100 ; i++) {
+            for(int i = 1 ; i < 10 ; i++) {
 
-            System.out.println("In demo2");
+                System.out.println("In demo2");
 
-            try {
-                Thread.sleep(10);
-            } catch (InterruptedException e) {
-                
-                e.printStackTrace();
+                try {
+                    Thread.sleep(10);
+                } catch (InterruptedException e) {
+
+                    e.printStackTrace();
+                }
             }
         };
 
