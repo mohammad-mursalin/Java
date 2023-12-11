@@ -24,7 +24,7 @@ public class ComparatorStudents {
     
     public static void main(String[] args) {
 
-        Comparator<Students> com = (Students i,Students j) -> { return  (i.roll > j.roll) ? 1 :  -1; };
+        Comparator<Students> com = (i, j) -> { return  (i.roll > j.roll) ? 1 :  -1; };   //using lambda expression and ternary operator
         
         List<Students> studs = new ArrayList<>();
 
