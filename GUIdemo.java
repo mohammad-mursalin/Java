@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class GUIdemo {   //
+public class GUIdemo {   //graphical 
      
     public static void main(String[] args) {
         
